@@ -37,7 +37,11 @@
     "grunt": "~0.4.4"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "ietf",
+    "rfc",
+    "internet-draft",
+    "xml2rfc"
   ],
   "dependencies": {
     "async": "^0.2.10"
