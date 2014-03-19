@@ -60,4 +60,4 @@ Remove the .xml file when the outputs have been generated.
 
 ## Release History
 
-v0.1.0: Initial release
+v0.0.1: Initial release
