@@ -1,0 +1,45 @@
+{
+  "name": "grunt-kramdown-rfc2629",
+  "description": "Edit RFCs in kramdown, then generate XML, text, and HTML.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hildjj/grunt-kramdown-rfc2629",
+  "author": {
+    "name": "Joe Hildebrand",
+    "email": "joe-github@cursive.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hildjj/grunt-kramdown-rfc2629.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hildjj/grunt-kramdown-rfc2629/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hildjj/grunt-kramdown-rfc2629/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.20"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.4",
+    "grunt-release": "^0.7.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "async": "^0.2.10"
+  }
+}
