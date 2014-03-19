@@ -46,7 +46,6 @@ module.exports = function(grunt) {
 
     release: {
       options: {
-        bump: false,
         tagName: 'v<%= version %>', //default: '<%= version %>'
       }
     },
