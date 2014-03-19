@@ -1,7 +1,7 @@
 {
   "name": "grunt-kramdown-rfc2629",
   "description": "Edit RFCs in kramdown, then generate XML, text, and HTML.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/hildjj/grunt-kramdown-rfc2629",
   "author": {
     "name": "Joe Hildebrand",
