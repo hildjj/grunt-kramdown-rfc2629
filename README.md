@@ -1,6 +1,6 @@
 # grunt-kramdown-rfc2629
 
-> Edit RFCs in kramdown, then generate XML, text, and HTML.
+> Edit RFCs in kramdown, then generate XML, nrff, text, and HTML.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.4`
